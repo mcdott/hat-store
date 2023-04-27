@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital@1&display=swap');
+
+.header_container{
+  margin-top: -10px;
+  height: 600px;
+  background-image: url("https://c1.wallpaperflare.com/preview/859/581/205/hat-flying-float-fly.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_title{
+  font-family: 'Schibsted Grotesk', sans-serif;
+  font-size: 3.5rem;
+  font-weight:600;
+}
+
+.header_content p{
+  padding-top: 30px;
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-align: center;
+}
+
+.button_container{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.buy_btn{
+  border: none;
+  outline: none;
+  text-decoration: none;
+  padding: 8px 20px;
+  border-radius: 5px;
+  background: rgb(33, 87, 163);
+  color: #fff !important;
+  cursor: pointer;
+  font-size: 1rem;
+  }

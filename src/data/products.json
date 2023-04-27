@@ -1,0 +1,117 @@
+{
+  "hats": [
+    {
+      "id": 0,
+      "name": "Fedora",
+      "description": "A classic fedora made of wool felt.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1514327605112-b887c0e61c0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+      "id": 1,
+      "name": "Baseball Cap",
+      "description": "A simple cotton baseball cap with an adjustable strap.",
+      "price": 14.99,
+      "image": "https://images.unsplash.com/photo-1622445275576-721325763afe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Beanie",
+      "description": "A cozy beanie made of soft acrylic yarn.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1579017331263-ef82f0bbc748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmVhbmllJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Yellow Bucket Hat",
+      "description": "A trendy yellow bucket hat made of cotton twill.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1596829676170-1875bc7316f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVja2V0JTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Cowboy Hat",
+      "description": "A rugged cowboy hat made of genuine leather.",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1593030166635-7891ba7fc5f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvd2JveSUyMGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Flat Cap",
+      "description": "A stylish flat cap made of wool blend fabric.",
+      "price": 29.99,
+      "image": "https://plus.unsplash.com/premium_photo-1679634980990-2a6eab674c90?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGZsYXQlMjBjYXB8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Panama Hat",
+      "description": "A classic Panama hat made of toquilla straw.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1496063930761-f47da90a51a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuYW1hJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Knit Hat",
+      "description": "A warm knit hat made of soft acrylic yarn.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1510598969022-c4c6c5d05769?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmVhbmllJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Visor",
+      "description": "A sporty visor made of lightweight polyester.",
+      "price": 9.99,
+      "image": "https://images.unsplash.com/photo-1632761246256-459a7ce7fa4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dmlzb3IlMjBoYXR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Bucket Hat",
+      "description": "A trendy bucket hat made of cotton twill.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1600074178688-c7a0a748a3e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJ1Y2tldCUyMGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 10,
+      "name": "Wool Cowboy Hat",
+      "description": "A vintage cowboy hat made of wool.",
+      "price": 54.99,
+      "image": "https://images.unsplash.com/photo-1616148585602-1aedbfec1609?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNvd2JveSUyMGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 11,
+      "name": "Snapback",
+      "description": "A classic snapback made of wool blend fabric.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1530455081362-52f97a635d8d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNuYXBiYWNrJTIwY2FwfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+
+    {
+      "id": 12,
+      "name": "Trilby",
+      "description": "A sophisticated trilby made of wool felt.",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1531934864-f913897cf90e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJpbGJ5JTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 13,
+      "name": "Brimmed Wool Hat",
+      "description": "A stylish brimmed wool hat.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1582791694770-cbdc9dda338f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 14,
+      "name": "Straw Sun Hat",
+      "description": "A stylish straw sun hat.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1619987898371-d26ce1f70b52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 15,
+      "name": "Floppy Brimmed Hat",
+      "description": "A floppy brimmed wool hat in poppy red.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1593476087123-36d1de271f08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}

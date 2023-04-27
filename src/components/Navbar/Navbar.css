@@ -1,0 +1,89 @@
+.header {
+  width: 100%;
+  height: 85px;
+  line-height:20px;
+  background-color: white;
+  }
+  
+  .mobile_container {
+      display: none;
+      overflow: hidden;
+      position: relative;
+      }
+      
+  .mobile_menu_header{
+      padding: 10px 10px;
+      display: flex;
+      justify-content: space-between;
+  }
+      
+      
+  .mobile_container .nav_item {
+      background: black;
+      color: white;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      display: block;
+  }
+      
+  .mobile_container .nav_item:hover {
+  background-color: #ddd;
+  color: black;
+  }
+  
+  .nav_wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+  
+  .logo{
+      margin-top: 10px;
+      width: 150px;
+      height: 40px;
+  }
+  
+  
+  .logo h1{
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: black !important;
+      
+  }
+  
+  .menu{
+  display:flex;
+  align-items: center;
+  column-gap: 2.7rem;
+  }
+  
+  svg {
+      margin-top: 10px;
+  }
+  
+  .nav_item{
+      margin-right: 20px;
+  color: var(--primary-color);
+  font-weight: 500;
+  }
+  
+  .nav_item:hover{
+      color: rgb(67, 122, 199)
+  }
+  
+  
+  
+  @media screen and (max-width: 768px) {
+  
+      .mobile_container{
+          display: block;
+      }
+  
+      .nav_wrapper{
+          display: none;
+          background-color: aqua;
+          }
+      
+      
+  }

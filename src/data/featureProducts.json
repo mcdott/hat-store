@@ -1,0 +1,25 @@
+{
+  "hats": [
+    {
+      "id": 2,
+      "name": "Beanie",
+      "description": "A cozy beanie made of soft acrylic yarn.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1579017331263-ef82f0bbc748?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YmVhbmllJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 7,
+      "name": "Knit Hat",
+      "description": "A warm knit hat made of soft acrylic yarn.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1510598969022-c4c6c5d05769?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmVhbmllJTIwaGF0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Bucket Hat",
+      "description": "A trendy bucket hat made of cotton twill.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1600074178688-c7a0a748a3e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJ1Y2tldCUyMGhhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
